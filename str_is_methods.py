@@ -45,10 +45,14 @@ print(l, l.isspace())
 
 
 
-# join
+# join()
 lst = ["aa", "bb", "cc"]
 tup = ("aa", "bb", "cc")
 
 print(" ".join(lst))
 print("/".join(lst))
 print("-".join(tup))
+
+# splitlines() -> 개행을 기준으로 분리하여 리스트 반환
+s = "Hello\nWorld"
+print(s.splitlines())
