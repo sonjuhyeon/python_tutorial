@@ -1,1 +1,3 @@
 test.py
+sample_apps/**/lib
+sample_apps/**/pyvenv.cfg
