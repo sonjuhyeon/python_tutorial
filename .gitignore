@@ -1,3 +1,9 @@
 test.py
 sample_apps/**/lib
+sample_apps/**/bin
+sample_apps/**/data
+sample_apps/**/include
+sample_apps/**/share
 sample_apps/**/pyvenv.cfg
+
+.env

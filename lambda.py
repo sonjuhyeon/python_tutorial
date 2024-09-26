@@ -25,5 +25,3 @@ print(my2(3))  # my2 함수에 3을 전달하면 30을 반환
 # 리스트 생성
 mylist = list(filter(lambda x : x % 2, range(10)))  # 0부터 9까지의 숫자 중 홀수만 필터링하여 리스트로 반환
 print(mylist)  # [1, 3, 5, 7, 9] 출력
-
-
