@@ -1,0 +1,658 @@
+,pitch_type,event
+224846,CH,Home Run
+224860,CH,Single
+224870,FT,Pop Out
+225697,FT,Home Run
+225727,SI,Grounded Into DP
+225741,FF,Pop Out
+226195,KN,Double
+226213,FF,Single
+227020,FF,Flyout
+227037,CU,Groundout
+227844,FF,Single
+227856,FF,Single
+229022,CU,Pop Out
+229046,FT,Forceout
+229060,FT,Flyout
+229827,FF,Flyout
+229853,FT,Single
+231369,CU,Groundout
+231379,FF,Flyout
+231904,CU,Field Error
+231925,FF,Sac Fly
+232806,FC,Hit By Pitch
+232832,FS,Grounded Into DP
+233792,FF,Lineout
+233806,SL,Double
+235410,FF,Lineout
+237044,SI,Home Run
+237065,SL,Lineout
+237082,SL,Flyout
+239127,FT,Groundout
+240710,CH,Flyout
+240724,SL,Single
+242587,FF,Groundout
+242614,FT,Single
+243397,FF,Flyout
+243702,FF,Single
+243717,CH,Forceout
+243736,FF,Flyout
+244511,FC,Groundout
+246095,SL,Single
+246109,FF,Pop Out
+246121,FC,Flyout
+246403,FF,Groundout
+246419,FF,Home Run
+261623,SL,Double
+261637,SL,Pop Out
+261664,FF,Field Error
+262556,FF,Single
+262579,SL,Lineout
+262591,SL,Groundout
+263087,FF,Fielders Choice Out
+263098,FT,Grounded Into DP
+263110,FC,Flyout
+264516,FS,Grounded Into DP
+266113,FF,Groundout
+266126,FT,Single
+266137,SL,Home Run
+266143,SL,Groundout
+266879,KC,Home Run
+266892,FF,Groundout
+266904,SL,Single
+268249,FF,Flyout
+268273,FF,Single
+268283,FT,Home Run
+268867,FF,Groundout
+268887,CH,Groundout
+269620,CH,Lineout
+271082,CU,Triple
+271091,SI,Grounded Into DP
+271343,KC,Single
+271354,KC,Home Run
+271992,SL,Grounded Into DP
+272016,FC,Forceout
+272760,SL,Single
+272769,FT,Groundout
+272784,CU,Home Run
+274274,FT,Fielders Choice Out
+274283,FT,Single
+274297,SL,Lineout
+274306,SI,Forceout
+275108,FT,Grounded Into DP
+275121,FT,Groundout
+275132,CU,Double
+275148,FF,Flyout
+275159,FF,Home Run
+275914,FT,Grounded Into DP
+275927,FT,Flyout
+275939,CH,Single
+277824,FT,Home Run
+277836,FF,Groundout
+278376,SL,Hit By Pitch
+278402,SL,Pop Out
+278884,FF,Home Run
+278897,FF,Home Run
+279701,FF,Single
+279722,FF,Home Run
+280379,SL,Single
+281652,FC,Single
+281669,CH,Flyout
+281685,CH,Groundout
+282418,FF,Home Run
+282445,SL,Home Run
+283175,FT,Single
+283186,FT,Home Run
+283196,FC,Flyout
+283203,CH,Single
+284354,SI,Double
+284374,CH,Single
+285172,SL,Pop Out
+285187,FF,Groundout
+285203,CH,Flyout
+285213,FF,Grounded Into DP
+285931,FF,Flyout
+285953,CU,Triple
+285963,CU,Lineout
+287264,FF,Grounded Into DP
+287285,FF,Single
+288504,FT,Groundout
+288516,FT,Groundout
+289154,FF,Single
+289172,KC,Double
+290610,CH,Home Run
+290691,FF,Single
+292248,FT,Groundout
+292259,FT,Groundout
+292274,SL,Single
+292289,SI,Single
+292992,SI,Single
+293774,FT,Flyout
+293787,FT,Single
+293794,FF,Single
+294435,FT,Single
+294449,FT,Flyout
+294461,FT,Groundout
+294476,CH,Grounded Into DP
+295148,FF,Home Run
+295162,CH,Double
+295182,FF,Hit By Pitch
+296562,CH,Flyout
+296586,FT,Flyout
+297061,SL,Grounded Into DP
+297099,CH,Single
+297868,FF,Single
+297880,SL,Groundout
+299367,CH,Groundout
+299377,CH,Single
+299390,FF,Single
+300141,FF,Flyout
+300927,SI,Lineout
+300936,FF,Home Run
+300950,SL,Flyout
+300961,FT,Single
+301785,FT,Flyout
+301816,FT,Home Run
+302565,CH,Flyout
+302579,SL,Single
+302588,SL,Double
+303449,FF,Single
+303472,SL,Flyout
+303487,FF,Double
+303985,FF,Single
+304014,SL,Forceout
+304601,FT,Home Run
+305418,FC,Double
+306190,FF,Flyout
+306201,SL,Single
+306216,FF,Flyout
+306917,KC,Single
+306942,KC,Double
+307686,FT,Groundout
+307733,FT,Flyout
+308527,FF,Single
+308550,FT,Single
+308561,FC,Single
+309117,CH,Fielders Choice Out
+309145,CH,Flyout
+309164,SL,Forceout
+309918,CH,Home Run
+309937,SL,Single
+309947,SL,Double
+309958,FC,Flyout
+310839,FF,Single
+310861,SL,Double
+310875,SL,Home Run
+310882,FT,Home Run
+311897,FF,Single
+311908,FC,Home Run
+312681,FT,Lineout
+313603,FS,Single
+313622,FF,Flyout
+313639,CH,Field Error
+313653,FC,Lineout
+313667,FF,Groundout
+314169,FF,Single
+314206,FF,Groundout
+314908,CH,Home Run
+314926,FF,Triple
+316582,SL,Single
+316596,SL,Flyout
+316613,FT,Hit By Pitch
+317541,CU,Lineout
+317553,FC,Flyout
+317565,FF,Home Run
+318379,FT,Single
+318400,SL,Forceout
+319133,FF,Home Run
+320485,FF,Groundout
+320506,FT,Single
+321264,CU,Flyout
+321274,CU,Flyout
+321291,FF,Home Run
+322087,FC,Forceout
+322099,CU,Single
+322119,CU,Single
+322464,CU,Groundout
+322477,SL,Pop Out
+323034,FF,Flyout
+323045,FF,Double
+323053,CH,Single
+323776,FF,Groundout
+323806,CH,Home Run
+324509,FF,Flyout
+325172,FF,Groundout
+325201,CU,Flyout
+326126,SL,Pop Out
+326888,FT,Double
+326926,SL,Single
+327729,FT,Single
+327751,FT,Groundout
+327764,FC,Single
+328528,FF,Home Run
+329257,FF,Home Run
+329264,FF,Single
+330455,FT,Flyout
+330467,FS,Field Error
+330479,CH,Home Run
+330492,SI,Hit By Pitch
+330507,FC,Groundout
+331282,CH,Single
+332049,SI,Single
+332611,FF,Lineout
+332638,FF,Lineout
+333432,FF,Flyout
+333438,FF,Flyout
+333447,FF,Groundout
+333482,SI,Flyout
+334202,FT,Grounded Into DP
+334215,FT,Flyout
+334228,CH,Single
+334239,FF,Flyout
+334256,FT,Lineout
+334284,FT,Flyout
+334984,FF,Forceout
+335001,FF,Flyout
+335813,FT,Single
+335827,FF,Single
+335851,FF,Grounded Into DP
+337378,SI,Single
+338016,CH,Sac Fly
+338030,CU,Home Run
+338887,FF,Groundout
+338901,SI,Home Run
+339660,FF,Flyout
+341070,FT,Single
+342773,SL,Flyout
+342785,SL,Groundout
+342797,FF,Single
+342811,FC,Flyout
+343498,FF,Home Run
+343504,SL,Pop Out
+343516,SI,Groundout
+345102,FF,Flyout
+345136,FC,Pop Out
+345280,CH,Home Run
+345826,FF,Pop Out
+345844,SI,Groundout
+345871,FF,Pop Out
+346595,SL,Flyout
+346621,FF,Single
+348178,FC,Single
+348985,CH,Single
+349015,FF,Groundout
+349711,FF,Home Run
+351138,FF,Pop Out
+351896,CU,Flyout
+351909,CU,Groundout
+351933,FF,Pop Out
+352662,CH,Double
+353050,FF,Flyout
+353811,FF,Grounded Into DP
+353822,FF,Pop Out
+354627,FF,Single
+355665,FF,Home Run
+356306,FF,Grounded Into DP
+356332,FT,Double
+357085,SL,Groundout
+357101,SL,Home Run
+357114,FT,Single
+357123,FF,Pop Out
+357726,SL,Hit By Pitch
+357739,SL,Lineout
+358424,KC,Groundout
+358437,FF,Single
+358458,FT,Groundout
+359256,FT,Flyout
+360034,SL,Flyout
+360050,FF,Groundout
+360062,SL,Pop Out
+361404,CU,Single
+362152,SL,Single
+362164,FF,Double
+362177,FF,Groundout
+362928,FF,Single
+362940,FF,Groundout
+362966,FT,Forceout
+363776,FS,Flyout
+363790,FF,Groundout
+363798,SL,Flyout
+363819,FF,Pop Out
+364570,CU,Flyout
+364589,FT,Pop Out
+365403,SL,Double
+367049,FF,Single
+367095,FF,Flyout
+367753,FF,Flyout
+367762,SL,Pop Out
+368398,FC,Double
+368423,SI,Groundout
+368436,FF,Flyout
+369197,FF,Groundout
+369221,FF,Flyout
+370122,FT,Forceout
+370131,FF,Home Run
+370138,SL,Flyout
+371233,FF,Single
+372001,FF,Groundout
+372026,FT,Single
+372039,FF,Lineout
+373475,FF,Home Run
+373510,FF,Lineout
+374090,FT,Flyout
+374113,FF,Double
+374982,SL,Groundout
+374994,CH,Forceout
+375783,CU,Sac Fly
+375795,FF,Home Run
+375810,FF,Home Run
+376374,SL,Flyout
+378133,FC,Single
+378144,FF,Field Error
+378156,FF,Home Run
+378169,FF,Home Run
+379593,SL,Grounded Into DP
+380364,FS,Groundout
+380375,FF,Flyout
+380386,FF,Double
+381234,FF,Home Run
+381256,SL,Flyout
+381269,SL,Pop Out
+381851,CU,Single
+381857,CU,Flyout
+381867,FF,Sac Fly
+381882,CU,Single
+381893,SL,Fielders Choice Out
+382678,SL,Forceout
+382692,FF,Home Run
+382711,SL,Sac Fly
+383953,FF,Home Run
+383981,FF,Double
+384775,FT,Double
+384795,CU,Groundout
+385534,SL,Groundout
+385566,FT,Home Run
+385576,SI,Home Run
+386153,FF,Flyout
+386163,FF,Home Run
+386192,CH,Home Run
+387193,FF,Double
+387207,SL,Groundout
+387952,CH,Groundout
+387975,CU,Double
+388565,FF,Home Run
+388574,SL,Flyout
+388615,SL,Flyout
+389327,FT,Groundout
+389338,FC,Single
+390099,FT,Home Run
+391373,SL,Double
+391395,SL,Single
+391904,FT,Grounded Into DP
+391920,FF,Lineout
+391928,FT,Grounded Into DP
+392672,FF,Grounded Into DP
+392687,FF,Pop Out
+392702,FF,Pop Out
+393308,FC,Single
+394792,SL,Single
+394810,SL,Single
+395378,CH,Pop Out
+395395,CH,Home Run
+395555,SL,Flyout
+395566,SL,Flyout
+395576,SL,Home Run
+395593,FF,Lineout
+396149,FF,Hit By Pitch
+396166,FF,Single
+396669,FF,Flyout
+396683,KC,Flyout
+396694,SL,Groundout
+396707,SL,Double
+397438,CU,Single
+397484,SL,Single
+397507,CH,Grounded Into DP
+399006,SL,Single
+399022,FF,Single
+399031,FF,Home Run
+399050,FT,Grounded Into DP
+399827,CU,Single
+399840,FF,Single
+400465,CH,Groundout
+400487,FT,Groundout
+400502,SL,Double
+401010,FF,Groundout
+401022,FT,Single
+402767,FF,Home Run
+402779,FT,Flyout
+402786,FT,Single
+402794,FC,Groundout
+403504,CH,Lineout
+404983,FT,Forceout
+404996,FS,Home Run
+405748,FF,Single
+405778,CH,Flyout
+406514,FT,Groundout
+406525,FT,Home Run
+406545,FT,Single
+406551,SI,Groundout
+407230,FF,Groundout
+407255,FF,Flyout
+407525,FF,Flyout
+407536,SI,Double
+408169,FF,Double
+408181,FT,Single
+408192,FF,Home Run
+408951,FF,Single
+408973,FF,Sac Fly
+410348,FF,Flyout
+411219,FF,Single
+411227,SL,Double
+411235,FF,Single
+412038,FF,Lineout
+413363,SL,Flyout
+413386,FF,Single
+414123,FT,Groundout
+414135,FT,Double Play
+414148,FT,Double
+414161,SL,Groundout
+414896,FT,Flyout
+414909,CH,Groundout
+414920,FT,Groundout
+414931,FT,Groundout
+414947,FT,Forceout
+415383,FC,Double
+415393,FC,Flyout
+415403,CU,Home Run
+415415,FC,Grounded Into DP
+416205,SL,Groundout
+416981,FF,Double
+418034,FF,Flyout
+418065,SL,Single
+418819,FT,Single
+418849,CU,Single
+418859,CU,Flyout
+418872,FF,Home Run
+419475,FF,Single
+419484,KC,Flyout
+420410,SI,Home Run
+420439,SI,Grounded Into DP
+421123,CU,Home Run
+421140,FF,Flyout
+421974,SI,Double
+421981,CH,Groundout
+422018,FF,Single
+425147,SI,Groundout
+425160,SL,Groundout
+425173,SL,Flyout
+425187,SI,Groundout
+426033,CH,Flyout
+426062,FF,Groundout
+426806,FT,Flyout
+426820,FF,Groundout
+426830,FT,Flyout
+427422,FT,Groundout
+427433,CH,Groundout
+427451,FT,Home Run
+427458,FF,Double
+428035,CU,Hit By Pitch
+428055,SL,Groundout
+428749,SI,Field Error
+428759,FC,Single
+428772,FC,Fielders Choice Out
+428787,FF,Home Run
+428801,SL,Pop Out
+429457,CH,Lineout
+430209,FT,Home Run
+430231,SL,Single
+431031,FT,Single
+432041,FF,Flyout
+432055,SL,Groundout
+432930,FT,Groundout
+432954,FT,Home Run
+432975,FF,Double
+433785,FC,Single
+433803,FF,Single
+433812,SL,Groundout
+435296,FT,Groundout
+435323,CH,Flyout
+435333,SL,Home Run
+436117,SL,Double
+436132,SI,Lineout
+437369,FT,Groundout
+438811,SL,Groundout
+438820,SI,Groundout
+438844,FC,Groundout
+438864,CU,Home Run
+440084,FT,Grounded Into DP
+440092,FT,Sac Fly
+440885,SI,Groundout
+440896,SL,Groundout
+440906,SL,Groundout
+440919,SL,Home Run
+441707,FT,Field Error
+443096,FT,Lineout
+443108,SL,Flyout
+443134,SI,Single
+443866,SL,Sac Fly
+443879,CU,Double
+443905,FF,Flyout
+444375,CH,Single
+444384,SL,Single
+445102,SL,Groundout
+445120,FC,Double
+445132,SL,Single
+445860,SL,Double
+445871,CH,Double
+445877,FC,Field Error
+445888,SL,Groundout
+446640,FF,Groundout
+446978,SI,Groundout
+447834,SI,Flyout
+447844,FC,Groundout
+447856,FF,Single
+448485,SI,Double
+448513,CH,Single
+448525,SI,Single
+449017,FF,Home Run
+449037,FF,Lineout
+449611,FT,Single
+450419,CU,Groundout
+450443,SL,Flyout
+451201,CH,Groundout
+451218,CU,Groundout
+451232,FC,Lineout
+451266,FC,Groundout
+451902,SL,Flyout
+451907,SL,Home Run
+451928,FF,Single
+452666,SI,Groundout
+452679,CH,Single
+454489,FC,Lineout
+454503,FF,Lineout
+454532,FF,Home Run
+455329,CH,Groundout
+456046,FT,Home Run
+456057,FC,Flyout
+456069,SL,Single
+456082,FF,Single
+456771,FC,Home Run
+456811,FF,Lineout
+457408,FF,Flyout
+457424,SL,Single
+457435,CU,Single
+457448,FT,Forceout
+458284,FF,Home Run
+459833,SI,Field Error
+459857,FF,Flyout
+460590,FF,Home Run
+461403,SI,Single
+461416,SI,Flyout
+461443,FC,Single
+462149,FT,Lineout
+462161,SL,Single
+462196,SL,Flyout
+462205,FF,Forceout
+462218,SL,Single
+462248,FF,Single
+462838,FT,Groundout
+462852,SL,Groundout
+462866,FT,Single
+463703,SL,Flyout
+463711,FF,Single
+463721,CH,Flyout
+464266,CU,Flyout
+464282,SI,Flyout
+464296,CU,Double
+464307,FC,Flyout
+464318,FF,Groundout
+465034,FF,Groundout
+465054,SL,Flyout
+465072,FF,Hit By Pitch
+465891,SL,Single
+466670,FF,Single
+467731,SI,Groundout
+467744,SI,Single
+467757,SI,Single
+467768,FT,Lineout
+467779,FT,Single
+468464,SI,Single
+468476,SL,Flyout
+468490,SL,Double
+468503,FF,Home Run
+469923,CU,Flyout
+470650,SL,Single
+470658,SI,Groundout
+471352,FF,Single
+471377,SI,Groundout
+471390,CU,Pop Out
+471801,FF,Hit By Pitch
+471813,SL,Single
+509804,FF,Lineout
+509816,FC,Grounded Into DP
+509831,FF,Flyout
+510551,CH,Lineout
+510558,FC,Field Error
+510572,FT,Groundout
+510587,FT,Single
+511262,FC,Lineout
+511282,KN,Pop Out
+511704,FF,Single
+511726,FF,Groundout
+511754,SL,Double
+512536,SL,Groundout
+514346,FC,Pop Out
+514378,FC,Double
+515102,FF,Lineout
+515124,FC,Single
+515131,FF,Flyout
+515947,SI,Single
+515969,SL,Single
+516398,SL,Groundout
+516408,SL,Sac Fly
+516420,FF,Sac Fly
+517080,FF,Flyout
+517098,CU,Single
+517122,FF,Home Run
+518656,CH,Groundout
+518672,KC,Grounded Into DP
