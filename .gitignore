@@ -6,5 +6,6 @@ sample_apps/**/include
 sample_apps/**/share
 sample_apps/**/pyvenv.cfg
 
+__pycache__
 .env
 .DS_Store
